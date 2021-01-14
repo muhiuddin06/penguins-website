@@ -1,0 +1,59 @@
+.card-one{
+    border: 0;
+}
+.card-two{
+    border: 0;
+    background-color: white;
+}
+
+.img-custom-1{
+    max-width: 87%;
+    max-height: 60%;
+}
+
+.img-custom-2{
+    max-width: 100%;
+    max-height: 62%;
+}
+
+.img-custom-3{
+    max-width: 92%;
+    max-height: 60%;
+}
+
+
+.img-custom-4{
+    max-width: 100%;
+    max-height: 55%;
+}
+
+.img-custom-5{
+    max-width: 100%;
+    max-height: 54%;
+}
+
+.img-custom-6{
+    max-width: 100%;
+    max-height: 54%;
+}
+
+
+.icon-custom{
+    width: 17%;
+    height: 84%;
+    margin-right: 20px;
+}
+.image-right{
+    width: 96%;
+    height: 74%;
+    margin: 9%;
+}
+
+.last-card{
+    padding-top: 32%;
+}
+
+.slider-img{
+    width: 50%;
+    height: 50%;
+}
